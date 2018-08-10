@@ -8,10 +8,10 @@
 
 <br>
 
-
-Because she is not replying back, and I need to do something!
+#
+OpenCV projects post college internship sessions.
 
 #
 
-[![some-logo](https://github.com/ashishgupta1350/OpenCV-Projects/blob/master/opencv-python-anaconda1.png "Visit HackerRank")](https://www.hackerrank.com)
+[![some-logo](https://github.com/ashishgupta1350/OpenCV-Projects/blob/master/opencv-python-anaconda1.png "Visit Open CV")](https://www.opencv.org)
 
